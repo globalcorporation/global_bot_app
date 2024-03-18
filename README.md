@@ -43,8 +43,17 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 ### AI
 
 
+
+| Name    | ANDROID | IOS  | LINUX | WEB                                     | Windows | MACOS |
+|---------|---------|------|-------|-----------------------------------------|---------|-------|
+| BOT     | WORK    | WORK | WORK  | Tidak akan hadir / tidak akan berfungsi | WORK    | WORK  |
+| USERBOT | WORK    | WORK | WORK  | Tidak akan hadir / tidak akan berfungsi | WORK    | WORK  |
+
 ### Telegram
 
 Kami menambahkan telegram bot & userbot di application kami
 
-
+| Name    | ANDROID | IOS           | LINUX | WEB                                     | Windows | MACOS         |
+|---------|---------|---------------|-------|-----------------------------------------|---------|---------------|
+| BOT     | WORK    | Belum Di Test | WORK  | Tidak akan hadir / tidak akan berfungsi | WORK    | Belum Di Test |
+| USERBOT | WORK    | Belum Di Test | WORK  | Tidak akan hadir / tidak akan berfungsi | WORK    | Belum Di Test |
