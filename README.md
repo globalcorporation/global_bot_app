@@ -71,16 +71,16 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 | CHATBOT               | ✅       | ✅   | ✅     | ✅     | ✅       |
 | TEXT TO SPEECH        | ✅       | ✅   | ✅     | ✅     | ✅       |
 | SPEECH TO TEXT        | ✅       | ✅   | ✅     | ✅     | ✅       |
-| VOICE CLONE           | ❎️       | ❎️   | ❎️     | ❎️     | ❎️       |
-| Face Detection        | ❎️       | ❎️   | ❎️     | ❎️     | ❎️       |
-| Neural Text To Speech | ❎️       | ❎️   | ✅     | ❎️     | ❎️       |
+| VOICE CLONE           | ❌️       | ❌️   | ❌️     | ❌️     | ❌️       |
+| Face Detection        | ❌️       | ❌️   | ❌️     | ❌️     | ❌️       |
+| Neural Text To Speech | ❌️       | ❌️   | ✅     | ❌️     | ❌️       |
 
 #### DISCORD
 
 | Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |---------|---------|-----|-------|-------|---------|
 | BOT     | ✅       | ✅   | ✅     | ✅     | ✅       |
-| USERBOT | ❎️       | ❎️   | ❎️     | ❎️     | ❎️       |
+| USERBOT | ❌️       | ❌️   | ❌️     | ❌️     | ❌️       |
 
 #### GITHUB
 
@@ -100,7 +100,7 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 | Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |---------|---------|-----|-------|-------|---------|
-| USERBOT | ❎️       | ❎️   | ❎️     | ❎️     | ❎️       |
+| USERBOT | ❌️       | ❌️   | ❌️     | ❌️     | ❌️       |
 
 
 #### INTERNET OF THING
@@ -130,4 +130,4 @@ Kami menambahkan telegram bot & userbot di application kami
 
 | Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |---------|---------|-----|-------|-------|---------|
-| USERBOT | ❎️       | ❎️   | ✅     | ❎️     | ❎️       |
+| USERBOT | ❌️       | ❌️   | ✅     | ❌️     | ❌️       |
