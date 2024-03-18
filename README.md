@@ -42,13 +42,14 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 ### AI
 
-| Name           | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
-|----------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| CHATBOT        | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
-| TEXT TO SPEECH | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
-| SPEECH TO TEXT | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
-| VOICE CLONE    | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-
+| Name                  | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| CHATBOT               | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
+| TEXT TO SPEECH        | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
+| SPEECH TO TEXT        | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
+| VOICE CLONE           | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| Face Detection        | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| Neural Text To Speech | Belum Di Implementasi | Belum Di Implementasi | WORK                  | Belum Di Implementasi | Belum Di Implementasi |
 
 ### DISCORD
 
