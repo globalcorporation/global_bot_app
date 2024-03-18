@@ -36,18 +36,18 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 #### Application
 
-| Name         | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
-|--------------|---------|------|-------|-------|---------|
-| SERVER LOCAL | ✅    | ✅ | ✅  | ✅  | ✅    |
+| Name         | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|--------------|---------|-----|-------|-------|---------|
+| SERVER LOCAL | ✅       | ✅   | ✅     | ✅     | ✅       |
 
 #### Security
 
-| Name        | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
-|-------------|---------|------|-------|-------|---------|
-| FINGERPRINT | ✅    | ✅ | -     | -     | ✅    |
-| FACE ID     | ✅    | ✅ | -     | -     | ✅    |
-| PIN         | ✅    | ✅ | ✅  | ✅  | ✅    |
-| PASSWORD    | ✅    | ✅ | ✅  | ✅  | ✅    |
+| Name        | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|-------------|---------|-----|-------|-------|---------|
+| FINGERPRINT | ✅       | ✅   | -     | -     | ✅       |
+| FACE ID     | ✅       | ✅   | -     | -     | ✅       |
+| PIN         | ✅       | ✅   | ✅     | ✅     | ✅       |
+| PASSWORD    | ✅       | ✅   | ✅     | ✅     | ✅       |
 
 
 ### Feature Bot
@@ -66,41 +66,41 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 #### AI
 
-| Name                  | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
-|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| CHATBOT               | ✅                  | ✅                  | ✅                  | ✅                  | ✅                  |
-| TEXT TO SPEECH        | ✅                  | ✅                  | ✅                  | ✅                  | ✅                  |
-| SPEECH TO TEXT        | ✅                  | ✅                  | ✅                  | ✅                  | ✅                  |
-| VOICE CLONE           | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-| Face Detection        | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-| Neural Text To Speech | Belum Di Implementasi | Belum Di Implementasi | ✅                  | Belum Di Implementasi | Belum Di Implementasi |
+| Name                  | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|-----------------------|---------|-----|-------|-------|---------|
+| CHATBOT               | ✅       | ✅   | ✅     | ✅     | ✅       |
+| TEXT TO SPEECH        | ✅       | ✅   | ✅     | ✅     | ✅       |
+| SPEECH TO TEXT        | ✅       | ✅   | ✅     | ✅     | ✅       |
+| VOICE CLONE           | ❎️       | ❎️   | ❎️     | ❎️     | ❎️       |
+| Face Detection        | ❎️       | ❎️   | ❎️     | ❎️     | ❎️       |
+| Neural Text To Speech | ❎️       | ❎️   | ✅     | ❎️     | ❎️       |
 
 #### DISCORD
 
-| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
-|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| BOT     | ✅                  | ✅                  | ✅                  | ✅                  | ✅                  |
-| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|---------|---------|-----|-------|-------|---------|
+| BOT     | ✅       | ✅   | ✅     | ✅     | ✅       |
+| USERBOT | ❎️       | ❎️   | ❎️     | ❎️     | ❎️       |
 
 #### GITHUB
 
-| Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
-|---------|---------|------|-------|-------|---------|
-| USERBOT | ✅    | ✅ | ✅  | ✅  | ✅    |
+| Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|---------|---------|-----|-------|-------|---------|
+| USERBOT | ✅       | ✅   | ✅     | ✅     | ✅       |
 
 
 #### GOOGLE
 
-| Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
-|---------|---------|------|-------|-------|---------|
-| USERBOT | ✅    | ✅ | ✅  | ✅  | ✅    |
+| Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|---------|---------|-----|-------|-------|---------|
+| USERBOT | ✅       | ✅   | ✅     | ✅     | ✅       |
 
 
 #### INSTAGRAM
 
-| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
-|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|---------|---------|-----|-------|-------|---------|
+| USERBOT | ❎️       | ❎️   | ❎️     | ❎️     | ❎️       |
 
 
 #### INTERNET OF THING
@@ -114,20 +114,20 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 Kami menambahkan telegram bot & userbot di application kami
 
-| Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
-|---------|---------|------|-------|-------|---------|
-| BOT     | ✅    | ✅ | ✅  | ✅  | ✅    |
-| USERBOT | ✅    | ✅ | ✅  | ✅  | ✅    |
+| Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|---------|---------|-----|-------|-------|---------|
+| BOT     | ✅       | ✅   | ✅     | ✅     | ✅       |
+| USERBOT | ✅       | ✅   | ✅     | ✅     | ✅       |
 
 
 #### TWITTER
 
-| Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
-|---------|---------|------|-------|-------|---------|
-| USERBOT | ✅    | ✅ | ✅  | ✅  | ✅    |
+| Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|---------|---------|-----|-------|-------|---------|
+| USERBOT | ✅       | ✅   | ✅     | ✅     | ✅       |
 
 #### WHATSAPP
 
-| Name    | ANDROID               | IOS                   | LINUX | MACOS                 | WINDOWS               |
-|---------|-----------------------|-----------------------|-------|-----------------------|-----------------------|
-| USERBOT | Belum Di Implementasi | Belum Di Implementasi | ✅  | Belum Di Implementasi | Belum Di Implementasi |
+| Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|---------|---------|-----|-------|-------|---------|
+| USERBOT | ❎️       | ❎️   | ✅     | ❎️     | ❎️       |
