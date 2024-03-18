@@ -38,16 +38,16 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 | Name         | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
 |--------------|---------|------|-------|-------|---------|
-| SERVER LOCAL | WORK    | WORK | WORK  | WORK  | WORK    |
+| SERVER LOCAL | ✅    | ✅ | ✅  | ✅  | ✅    |
 
 #### Security
 
 | Name        | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
 |-------------|---------|------|-------|-------|---------|
-| FINGERPRINT | WORK    | WORK | -     | -     | WORK    |
-| FACE ID     | WORK    | WORK | -     | -     | WORK    |
-| PIN         | WORK    | WORK | WORK  | WORK  | WORK    |
-| PASSWORD    | WORK    | WORK | WORK  | WORK  | WORK    |
+| FINGERPRINT | ✅    | ✅ | -     | -     | ✅    |
+| FACE ID     | ✅    | ✅ | -     | -     | ✅    |
+| PIN         | ✅    | ✅ | ✅  | ✅  | ✅    |
+| PASSWORD    | ✅    | ✅ | ✅  | ✅  | ✅    |
 
 
 ### Feature Bot
@@ -68,32 +68,32 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 | Name                  | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| CHATBOT               | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
-| TEXT TO SPEECH        | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
-| SPEECH TO TEXT        | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
+| CHATBOT               | ✅                  | ✅                  | ✅                  | ✅                  | ✅                  |
+| TEXT TO SPEECH        | ✅                  | ✅                  | ✅                  | ✅                  | ✅                  |
+| SPEECH TO TEXT        | ✅                  | ✅                  | ✅                  | ✅                  | ✅                  |
 | VOICE CLONE           | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 | Face Detection        | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-| Neural Text To Speech | Belum Di Implementasi | Belum Di Implementasi | WORK                  | Belum Di Implementasi | Belum Di Implementasi |
+| Neural Text To Speech | Belum Di Implementasi | Belum Di Implementasi | ✅                  | Belum Di Implementasi | Belum Di Implementasi |
 
 #### DISCORD
 
 | Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
 |---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| BOT     | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
+| BOT     | ✅                  | ✅                  | ✅                  | ✅                  | ✅                  |
 | USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 
 #### GITHUB
 
 | Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
 |---------|---------|------|-------|-------|---------|
-| USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
+| USERBOT | ✅    | ✅ | ✅  | ✅  | ✅    |
 
 
 #### GOOGLE
 
 | Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
 |---------|---------|------|-------|-------|---------|
-| USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
+| USERBOT | ✅    | ✅ | ✅  | ✅  | ✅    |
 
 
 #### INSTAGRAM
@@ -116,18 +116,18 @@ Kami menambahkan telegram bot & userbot di application kami
 
 | Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
 |---------|---------|------|-------|-------|---------|
-| BOT     | WORK    | WORK | WORK  | WORK  | WORK    |
-| USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
+| BOT     | ✅    | ✅ | ✅  | ✅  | ✅    |
+| USERBOT | ✅    | ✅ | ✅  | ✅  | ✅    |
 
 
 #### TWITTER
 
 | Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
 |---------|---------|------|-------|-------|---------|
-| USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
+| USERBOT | ✅    | ✅ | ✅  | ✅  | ✅    |
 
 #### WHATSAPP
 
 | Name    | ANDROID               | IOS                   | LINUX | MACOS                 | WINDOWS               |
 |---------|-----------------------|-----------------------|-------|-----------------------|-----------------------|
-| USERBOT | Belum Di Implementasi | Belum Di Implementasi | WORK  | Belum Di Implementasi | Belum Di Implementasi |
+| USERBOT | Belum Di Implementasi | Belum Di Implementasi | ✅  | Belum Di Implementasi | Belum Di Implementasi |
