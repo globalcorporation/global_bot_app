@@ -27,7 +27,31 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 2. **Bot / Userbot**
    Kami menyediakan gratis namun dengan watermak namun jika kamu ingin bayar kamu bisa mendapat akses lebih harga untuk menjalankan bot disini rata rata mulai **25k**-**500k**
 
-## Feature Saat ini
+## Feature
+
+### Feture App
+
+1. [Application](#application)
+2. [Security](#security)
+
+#### Application
+
+| Name         | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
+|--------------|---------|------|-------|-------|---------|
+| SERVER LOCAL | WORK    | WORK | WORK  | WORK  | WORK    |
+
+#### Security
+
+| Name        | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
+|-------------|---------|------|-------|-------|---------|
+| FINGERPRINT | WORK    | WORK | -     | -     | WORK    |
+| FACE ID     | WORK    | WORK | -     | -     | WORK    |
+| PIN         | WORK    | WORK | WORK  | WORK  | WORK    |
+| PASSWORD    | WORK    | WORK | WORK  | WORK  | WORK    |
+
+
+### Feature Bot
+
 
 1. [AI](#ai)
 2. [Discord]()
@@ -40,7 +64,7 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 9. [Whatsapp]()
 
 
-### AI
+#### AI
 
 | Name                  | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
 |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
@@ -51,42 +75,42 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 | Face Detection        | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 | Neural Text To Speech | Belum Di Implementasi | Belum Di Implementasi | WORK                  | Belum Di Implementasi | Belum Di Implementasi |
 
-### DISCORD
+#### DISCORD
 
 | Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
 |---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 | BOT     | WORK                  | WORK                  | WORK                  | WORK                  | WORK                  |
 | USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 
-### GITHUB
+#### GITHUB
 
 | Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
 |---------|---------|------|-------|-------|---------|
 | USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
 
 
-### GOOGLE
+#### GOOGLE
 
 | Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
 |---------|---------|------|-------|-------|---------|
 | USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
 
 
-### INSTAGRAM
+#### INSTAGRAM
 
 | Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
 |---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
 | USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 
 
-### INTERNET OF THING
+#### INTERNET OF THING
 
 | Name | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |------|---------|-----|-------|-------|---------|
 
 
 
-### Telegram
+#### Telegram
 
 Kami menambahkan telegram bot & userbot di application kami
 
@@ -96,13 +120,13 @@ Kami menambahkan telegram bot & userbot di application kami
 | USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
 
 
-### TWITTER
+#### TWITTER
 
 | Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
 |---------|---------|------|-------|-------|---------|
 | USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
 
-### WHATSAPP
+#### WHATSAPP
 
 | Name    | ANDROID               | IOS                   | LINUX | MACOS                 | WINDOWS               |
 |---------|-----------------------|-----------------------|-------|-----------------------|-----------------------|
