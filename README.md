@@ -29,6 +29,17 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 ## Feature
 
+### Feture Core
+
+1. [Media Player](#media-player)
+
+#### Media Player
+
+| Name  | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|-------|---------|-----|-------|-------|---------|
+| AUDIO | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
+| VIDEO | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
+
 ### Feture App
 
 1. [Application](#application)
