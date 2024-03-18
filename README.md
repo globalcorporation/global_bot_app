@@ -15,7 +15,6 @@
 
 [Link Download](https://github.com/globalcorporation/global_bot_app/releases/tag/latest)
 
-
 ## Price
 
 Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa untuk mengembangkan hal lain, maka application ini berbayar
