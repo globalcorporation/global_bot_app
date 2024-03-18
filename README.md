@@ -47,7 +47,8 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 |--------------------|---------|-----|-------|-------|---------|
 | Media Player Audio | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 | Media Player Video | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
-
+| Notification       | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
+| Background App     | ✔️       | -   | -     | -     | -       |
 
 #### Security
 
