@@ -42,18 +42,25 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 ### AI
 
+| Name           | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
+|----------------|---------|------|-------|-------|---------|
+| CHATBOT        | WORK    | WORK | WORK  | WORK  | WORK    |
+| TEXT TO SPEECH | WORK    | WORK | WORK  | WORK  | WORK    |
+| SPEECH TO TEXT | WORK    | WORK | WORK  | WORK  | WORK    |
 
 
-| Name    | ANDROID | IOS  | LINUX | WEB                                     | Windows | MACOS |
-|---------|---------|------|-------|-----------------------------------------|---------|-------|
-| BOT     | WORK    | WORK | WORK  | Tidak akan hadir / tidak akan berfungsi | WORK    | WORK  |
-| USERBOT | WORK    | WORK | WORK  | Tidak akan hadir / tidak akan berfungsi | WORK    | WORK  |
+### DISCORD
+
+| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
+|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 
 ### Telegram
 
 Kami menambahkan telegram bot & userbot di application kami
 
-| Name    | ANDROID | IOS           | LINUX | WEB                                     | Windows | MACOS         |
-|---------|---------|---------------|-------|-----------------------------------------|---------|---------------|
-| BOT     | WORK    | Belum Di Test | WORK  | Tidak akan hadir / tidak akan berfungsi | WORK    | Belum Di Test |
-| USERBOT | WORK    | Belum Di Test | WORK  | Tidak akan hadir / tidak akan berfungsi | WORK    | Belum Di Test |
+| Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
+|---------|---------|------|-------|-------|---------|
+| BOT     | WORK    | WORK | WORK  | WORK  | WORK    |
+| USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
