@@ -5,6 +5,10 @@ Global Bot App adalah sebuah app untuk menjalankan berbagai bot / userbot di per
 [Link Download](https://github.com/globalcorporation/global_bot_app/releases/tag/latest)
 
 
+### Demo
+
+[![Watch the video](https://img.youtube.com/vi/RFTVdYC5PeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=RFTVdYC5PeM)
+
 ## Feature Saat ini
 
 1. [AI](#ai)
