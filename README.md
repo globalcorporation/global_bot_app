@@ -4,7 +4,7 @@
 
 ## ⚠️ Penting
 
-Applikasi ini adalah sebuah sub app artinya kamu perlu akun app utama untuk bisa memakai akun ini
+**Applikasi** ini adalah sebuah **sub app** artinya **kamu perlu akun app utama** untuk bisa memakai akun ini
 
 **Contoh:** **GLOBAL BOT APP** maka app utama **GLOBAL APP**
 
