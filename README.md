@@ -53,41 +53,34 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 | Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
 |---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| BOT     | WORK | WORK | WORK | WORK | WORK |
 | USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 
 ### GITHUB
 
-| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
-|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
+|---------|---------|------|-------|-------|---------|
+| USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
 
 
 ### GOOGLE
 
-| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
-|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-
+| Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
+|---------|---------|------|-------|-------|---------|
+| USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
 
 
 ### INSTAGRAM
 
 | Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
 |---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 | USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 
 
 ### INTERNET OF THING
 
-| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
-|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-
+| Name | ANDROID | IOS | LINUX | MACOS | WINDOWS |
+|------|---------|-----|-------|-------|---------|
 
 
 
@@ -101,20 +94,14 @@ Kami menambahkan telegram bot & userbot di application kami
 | USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
 
 
-
 ### TWITTER
 
-| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
-|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-
-
-
+| Name    | ANDROID | IOS  | LINUX | MACOS | WINDOWS |
+|---------|---------|------|-------|-------|---------|
+| USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
 
 ### WHATSAPP
 
-| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
-|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
-| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| Name    | ANDROID               | IOS                   | LINUX | MACOS                 | WINDOWS               |
+|---------|-----------------------|-----------------------|-------|-----------------------|-----------------------|
+| USERBOT | Belum Di Implementasi | Belum Di Implementasi | WORK  | Belum Di Implementasi | Belum Di Implementasi |
