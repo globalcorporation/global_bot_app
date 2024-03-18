@@ -49,6 +49,7 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 | Media Player Video | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 | Notification       | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 | Background App     | ✔️       | -   | -     | -     | -       |
+| Auto Start App     | -       | -   | -     | -     | -       |
 
 #### Security
 
