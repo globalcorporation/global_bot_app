@@ -5,9 +5,23 @@ Global Bot App adalah sebuah app untuk menjalankan berbagai bot / userbot di per
 [Link Download](https://github.com/globalcorporation/global_bot_app/releases/tag/latest)
 
 
-### Demo
+## Demo
 
 [![Watch the video](https://img.youtube.com/vi/RFTVdYC5PeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=RFTVdYC5PeM)
+
+## Price
+
+Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa untuk mengembangkan hal lain, maka application ini berbayar
+
+1. **Application**
+   Kami menghargai app kami gratis namun agar kamu bisa mengakses fitur unggulan kamu harus upgrade akun dahulu di karenakan ini sebuah applikasi sub APP Maka upgrade hanya di Applikasi original 
+   Contoh:
+   **Global Bot App** Maka kamu upgrade akun di **GLOBAL APP** jika kamu sudah upgrade maka automatis di app turunan global app akan auto subscribe ke plan sendiri mengikuti induk app
+
+2. **Bot / Userbot**
+   Kami menyediakan gratis namun dengan watermak namun jika kamu ingin bayar kamu bisa mendapat akses lebih harga untuk menjalankan bot disini rata rata mulai **25k**-**500k**
+
+
 
 ## Feature Saat ini
 
@@ -16,7 +30,7 @@ Global Bot App adalah sebuah app untuk menjalankan berbagai bot / userbot di per
 3. [GITHUB]
 4. [GOOGLE]
 5. [INSTAGRAM]
-6. [Internet Of Thing]
+6. [Internet Of Thing]()
 7. [Telegram](#telegram)
 8. [Twitter]
 9. [Whatsapp]
