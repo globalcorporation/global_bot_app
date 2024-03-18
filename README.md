@@ -1,13 +1,20 @@
 # Global Bot App
 
-Global Bot App adalah sebuah app untuk menjalankan berbagai bot / userbot di perangkat lokal (Hp / Komputer / Laptop / Tab)
- 
-[Link Download](https://github.com/globalcorporation/global_bot_app/releases/tag/latest)
+**Global Bot App** adalah sebuah app untuk menjalankan berbagai bot / userbot di perangkat lokal (Hp / Komputer / Laptop / Tab)
 
+## ⚠️ Penting
+
+Applikasi ini adalah sebuah sub app artinya kamu perlu akun app utama untuk bisa memakai akun ini
+
+**Contoh:** **GLOBAL BOT APP** maka app utama **GLOBAL APP**
 
 ## Demo
 
 [![Watch the video](https://img.youtube.com/vi/RFTVdYC5PeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=RFTVdYC5PeM)
+
+
+[Link Download](https://github.com/globalcorporation/global_bot_app/releases/tag/latest)
+
 
 ## Price
 
@@ -20,8 +27,6 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 2. **Bot / Userbot**
    Kami menyediakan gratis namun dengan watermak namun jika kamu ingin bayar kamu bisa mendapat akses lebih harga untuk menjalankan bot disini rata rata mulai **25k**-**500k**
-
-
 
 ## Feature Saat ini
 
