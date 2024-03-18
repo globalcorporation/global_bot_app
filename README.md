@@ -38,16 +38,16 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 | Name         | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |--------------|---------|-----|-------|-------|---------|
-| SERVER LOCAL | ✅       | ✅   | ✅     | ✅     | ✅       |
+| SERVER LOCAL | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 
 #### Security
 
 | Name        | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |-------------|---------|-----|-------|-------|---------|
-| FINGERPRINT | ✅       | ✅   | -     | -     | ✅       |
-| FACE ID     | ✅       | ✅   | -     | -     | ✅       |
-| PIN         | ✅       | ✅   | ✅     | ✅     | ✅       |
-| PASSWORD    | ✅       | ✅   | ✅     | ✅     | ✅       |
+| FINGERPRINT | ✔️       | ✔️   | -     | -     | ✔️       |
+| FACE ID     | ✔️       | ✔️   | -     | -     | ✔️       |
+| PIN         | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
+| PASSWORD    | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 
 
 ### Feature Bot
@@ -68,32 +68,32 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 
 | Name                  | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |-----------------------|---------|-----|-------|-------|---------|
-| CHATBOT               | ✅       | ✅   | ✅     | ✅     | ✅       |
-| TEXT TO SPEECH        | ✅       | ✅   | ✅     | ✅     | ✅       |
-| SPEECH TO TEXT        | ✅       | ✅   | ✅     | ✅     | ✅       |
+| CHATBOT               | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
+| TEXT TO SPEECH        | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
+| SPEECH TO TEXT        | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 | VOICE CLONE           | ❌️       | ❌️   | ❌️     | ❌️     | ❌️       |
 | Face Detection        | ❌️       | ❌️   | ❌️     | ❌️     | ❌️       |
-| Neural Text To Speech | ❌️       | ❌️   | ✅     | ❌️     | ❌️       |
+| Neural Text To Speech | ❌️       | ❌️   | ✔️     | ❌️     | ❌️       |
 
 #### DISCORD
 
 | Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |---------|---------|-----|-------|-------|---------|
-| BOT     | ✅       | ✅   | ✅     | ✅     | ✅       |
+| BOT     | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 | USERBOT | ❌️       | ❌️   | ❌️     | ❌️     | ❌️       |
 
 #### GITHUB
 
 | Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |---------|---------|-----|-------|-------|---------|
-| USERBOT | ✅       | ✅   | ✅     | ✅     | ✅       |
+| USERBOT | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 
 
 #### GOOGLE
 
 | Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |---------|---------|-----|-------|-------|---------|
-| USERBOT | ✅       | ✅   | ✅     | ✅     | ✅       |
+| USERBOT | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 
 
 #### INSTAGRAM
@@ -116,18 +116,18 @@ Kami menambahkan telegram bot & userbot di application kami
 
 | Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |---------|---------|-----|-------|-------|---------|
-| BOT     | ✅       | ✅   | ✅     | ✅     | ✅       |
-| USERBOT | ✅       | ✅   | ✅     | ✅     | ✅       |
+| BOT     | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
+| USERBOT | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 
 
 #### TWITTER
 
 | Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |---------|---------|-----|-------|-------|---------|
-| USERBOT | ✅       | ✅   | ✅     | ✅     | ✅       |
+| USERBOT | ✔️       | ✔️   | ✔️     | ✔️     | ✔️       |
 
 #### WHATSAPP
 
 | Name    | ANDROID | IOS | LINUX | MACOS | WINDOWS |
 |---------|---------|-----|-------|-------|---------|
-| USERBOT | ❌️       | ❌️   | ✅     | ❌️     | ❌️       |
+| USERBOT | ❌️       | ❌️   | ✔️     | ❌️     | ❌️       |
