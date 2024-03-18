@@ -1,21 +1,6 @@
-# GlobalBotApp
+# Global Bot App
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add global_bot_app
-```
-
-or flutter
-
-```bash
-dart pub add global_bot_app_flutter
-```
+Global Bot App adalah sebuah app untuk menjalankan berbagai bot / userbot di perangkat lokal (Hp / Komputer / Laptop / Tab)
  
+
+
