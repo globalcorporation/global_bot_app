@@ -30,14 +30,14 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 ## Feature Saat ini
 
 1. [AI](#ai)
-2. [Discord]
-3. [GITHUB]
-4. [GOOGLE]
-5. [INSTAGRAM]
+2. [Discord]()
+3. [GITHUB]()
+4. [GOOGLE]()
+5. [INSTAGRAM]()
 6. [Internet Of Thing]()
 7. [Telegram](#telegram)
-8. [Twitter]
-9. [Whatsapp]
+8. [Twitter]()
+9. [Whatsapp]()
 
 
 ### AI
@@ -56,6 +56,41 @@ Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa 
 | BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 | USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
 
+### GITHUB
+
+| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
+|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+
+
+### GOOGLE
+
+| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
+|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+
+
+
+### INSTAGRAM
+
+| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
+|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+
+
+### INTERNET OF THING
+
+| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
+|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+
+
+
+
 ### Telegram
 
 Kami menambahkan telegram bot & userbot di application kami
@@ -64,3 +99,22 @@ Kami menambahkan telegram bot & userbot di application kami
 |---------|---------|------|-------|-------|---------|
 | BOT     | WORK    | WORK | WORK  | WORK  | WORK    |
 | USERBOT | WORK    | WORK | WORK  | WORK  | WORK    |
+
+
+
+### TWITTER
+
+| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
+|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+
+
+
+
+### WHATSAPP
+
+| Name    | ANDROID               | IOS                   | LINUX                 | MACOS                 | WINDOWS               |
+|---------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| BOT     | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
+| USERBOT | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi | Belum Di Implementasi |
